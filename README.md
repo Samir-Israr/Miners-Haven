@@ -26,12 +26,19 @@ The project combines gameplay programming, UI development, world building and pr
 
 ## Development Team
 
-| Developer | Responsibilities |
-|---|---|
-| Samir Israr | Lead Programmer, UI Developer |
-| Enzo | Builder, UI Developer |
+Miner's Haven is a jointly owned project developed by a two-person team, with equal ownership and shared responsibility for the game's development.
 
-**Ownership:** 50/50
+| Developer | Role |
+|---|---|
+| **Samir Israr** | Lead Programmer, UI Developer |
+| **Enzo** | Builder, UI Developer |
+
+**Project Ownership:** 50/50
+
+### Contact
+
+- **Samir:** [GitHub Profile](https://github.com/Samir-Israr)
+- **Enzo:** Discord `@enzoface21_`
 
 ## Technologies
 
@@ -46,8 +53,3 @@ The core gameplay systems are implemented. The remaining development work includ
 - World map completion
 - Shop completion
 - Minion system
-
-## Contact
-
-- **Samir:** [GitHub](https://github.com/Samir-Israr)
-- **Enzo:** Discord `@enzoface21_`
