@@ -1,3 +1,5 @@
+![Miner's Haven Banner](banner.png)
+
 # Miner's Haven
 
 **MINE. COLLECT. EXPLORE. EXPAND.**
